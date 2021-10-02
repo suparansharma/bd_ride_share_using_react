@@ -1,0 +1,10 @@
+.App{
+    background-image: url("https://images.unsplash.com/photo-1543996991-8e851c2dc841?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cm9hZHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80");
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+
+}
+
